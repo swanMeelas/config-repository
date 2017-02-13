@@ -1,2 +1,2 @@
-# microservicepoc
-poc for microservice implementation
+# sample-config
+Spring Cloud External Configuration Repository
