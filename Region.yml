@@ -1,6 +1,6 @@
 #Region Service Port
 server
- port:8562
+ port:8090
 
 #Database properties
 spring
