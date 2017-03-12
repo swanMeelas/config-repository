@@ -1,3 +1,5 @@
+configuration:  
+  projectName: configclient
 #Region Service Port
 server:
  port:8562
